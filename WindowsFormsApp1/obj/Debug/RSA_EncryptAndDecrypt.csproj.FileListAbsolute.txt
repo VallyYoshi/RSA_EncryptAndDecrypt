@@ -1,0 +1,10 @@
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\RSA_EncryptAndDecrypt.csprojAssemblyReference.cache
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\RSA_EncryptAndDecrypt.csproj.GenerateResource.cache
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\RSA_EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\Users\valentine\source\repos\RSA_EncryptAndDecrypt\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
